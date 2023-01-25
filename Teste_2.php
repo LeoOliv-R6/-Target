@@ -16,6 +16,7 @@ while($fim <= 100) {
         echo ".";
     }
 }
+
 ?>
 
 </html>
