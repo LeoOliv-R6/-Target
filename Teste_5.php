@@ -7,4 +7,5 @@ for ($i = $contador; $i >= 0; $i--) {
     $revstr .= $str[$i];
 }
 echo $revstr;
+
 ?>
